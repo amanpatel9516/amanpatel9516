@@ -1,5 +1,7 @@
 ## Hi there 👋
-hii ther i am currently working on making my portfolio stronhger and stronger
+hii ther i am currently working on making my portfolio stronhger and stronger .
+tghis is my portfolio website wher i will be showing my skill set and my projects which otheres can see and give me also the feedback .
+
 
 <!--
 **amanpatel9516/amanpatel9516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
