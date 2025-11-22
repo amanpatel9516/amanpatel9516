@@ -1,6 +1,7 @@
 ## Hi there 👋
 hii ther i am currently working on making my portfolio stronhger and stronger .
 tghis is my portfolio website wher i will be showing my skill set and my projects which otheres can see and give me also the feedback .
+this is my website where you will come to know about me ,my preojects and the qualificationa=s and all about me yopu will bew able to find.also give the feedback about the project 
 
 
 <!--
