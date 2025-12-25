@@ -1,47 +1,43 @@
- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=FF5733&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Turning+Data+into+Intelligence;AI+for+Human+Progress" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 30px #0f0;"/>
+</div>
 
-
-
-
-## 💻 My Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks & Libraries -->
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AMAN+PATEL;LEVEL+99+DEVELOPER;READY_TO_CODE" alt="Typing SVG" />
+    </a>
+  </h1>
+  <img src="https://github.com/amanpatel9516.png?size=200" width="180" style="border-radius: 50%; border: 5px solid #00ff00; margin-top: -265px; position: relative; z-index: 10; box-shadow: 0 0 30px #00ff00; background-color: #000;" />
  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-</p>
+</div>
+<div align="center">
+  <table style="background-color: #000000; border: 2px solid #00ff00;">
+    <tr>
+      <td align="center">
+         <p style="color: #00ff00; font-family: monospace;">[!] ACTIVE EXPLOIT KITS:</p>
+         <img src="https://skillicons.dev/icons?i=linux,kali,python,c,cpp,git,bash,docker&perline=8&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+ 
+<div align="center">
+ 
+  <p><b>🗺️ MISSION STATUS:</b></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpatel9516&theme=tokyonight" />
+</div>
 
+<br/>
 
-🔗 Portfolio: [https://your-domain-or-github-pages](https://github.com/amanpatel9516/amanpatel9516)
-📫 Reach me: rampatel951664@gmail.com
+<div align="center">
+  <p><b>🐍 CONTRIBUTION SNAKE:</b></p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-
-
-<!--
-*VivekShinde0013/VivekShinde0013* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer"/>
+</div> 
+ 
+ 
+ 
